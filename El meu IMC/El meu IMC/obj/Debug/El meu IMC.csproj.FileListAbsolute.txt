@@ -1,0 +1,13 @@
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\Bin\Debug\ApplicationIcon.png
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\Bin\Debug\Background.png
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\Bin\Debug\El meu IMC.dll
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\Bin\Debug\El meu IMC.pdb
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\Bin\Debug\AppManifest.xaml
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\Bin\Debug\El_meu_IMC.xap
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\obj\Debug\App.g.i.cs
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\obj\Debug\MainPage.g.i.cs
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\obj\Debug\El meu IMC.g.resources
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\obj\Debug\El meu IMC.dll
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\obj\Debug\El meu IMC.pdb
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\obj\Debug\XapCacheFile.xml

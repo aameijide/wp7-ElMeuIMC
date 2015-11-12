@@ -1,0 +1,13 @@
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\Bin\Release\ApplicationIcon.png
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\Bin\Release\Background.png
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\Bin\Release\El meu IMC.dll
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\Bin\Release\El meu IMC.pdb
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\Bin\Release\AppManifest.xaml
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\Bin\Release\El_meu_IMC.xap
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\obj\Release\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\obj\Release\App.g.i.cs
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\obj\Release\MainPage.g.i.cs
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\obj\Release\El meu IMC.g.resources
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\obj\Release\El meu IMC.dll
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\obj\Release\El meu IMC.pdb
+D:\Visual Studio 2010\Projects\El meu IMC\El meu IMC\obj\Release\XapCacheFile.xml
